@@ -1,0 +1,6 @@
+use_frameworks!
+target 'UIKitLocalizedString_Tests' do
+  pod 'UIKitLocalizedString', :path => '../'
+  
+  
+end
